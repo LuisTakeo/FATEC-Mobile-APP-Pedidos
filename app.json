@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Pedidos FATEC",
+    "slug": "fatec-mobile-app-pedidos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#fff3e6"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
